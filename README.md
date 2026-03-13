@@ -24,22 +24,6 @@ A curated list of **AI agents, frameworks, and tools for building autonomous AI 
 
 ---
 
-## 🚀 Explore the Organization
-
-<p align="center">
-
-<a href="https://github.com/AI-Agents-Hub">
-<img src="https://img.shields.io/badge/🏢%20Organization-AI%20Agents%20Hub-black?style=for-the-badge">
-</a>
-
-<a href="https://github.com/AI-Agents-Hub/awesome-ai-agents-2026">
-<img src="https://img.shields.io/badge/🤖%20Repository-Awesome%20AI%20Agents%202026-blue?style=for-the-badge">
-</a>
-
-</p>
-
----
-
 ## 🧠 Agent Frameworks
 
 | Project                                                | Description                                |
@@ -48,8 +32,8 @@ A curated list of **AI agents, frameworks, and tools for building autonomous AI 
 | [AutoGen](https://github.com/microsoft/autogen)        | Multi-agent conversation framework         |
 | [CrewAI](https://github.com/crewAIInc/crewAI)          | Role-based AI agent orchestration          |
 
----
 
+---
 ## 🤖 Autonomous AI Agents
 
 | Project                                                    | Description                           |
