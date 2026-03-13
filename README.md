@@ -1,2 +1,75 @@
-# Awesome-AI-Agents-2026
-A curated list of AI agents, frameworks, and tools for building autonomous AI systems.  AI agents are systems powered by large language models that can plan, reason, and execute tasks automatically.
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
+# 🤖 Awesome AI Agents 2026
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Stars](https://img.shields.io/github/stars/AI-Agents-Hub/awesome-ai-agents-2026?style=social)
+
+A curated list of **AI agents, frameworks, and tools for building autonomous AI systems**.
+
+---
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AI-Agents-Hub/awesome-ai-agents-2026\&type=Date)](https://star-history.com/#AI-Agents-Hub/awesome-ai-agents-2026&Date)
+
+---
+
+## 🚀 Explore the Organization
+
+<p align="center">
+
+<a href="https://github.com/AI-Agents-Hub">
+<img src="https://img.shields.io/badge/🏢%20Organization-AI%20Agents%20Hub-black?style=for-the-badge">
+</a>
+
+<a href="https://github.com/AI-Agents-Hub/awesome-ai-agents-2026">
+<img src="https://img.shields.io/badge/🤖%20Repository-Awesome%20AI%20Agents%202026-blue?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+## 🧠 Agent Frameworks
+
+| Project                                                | Description                                |
+| ------------------------------------------------------ | ------------------------------------------ |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Framework for building stateful LLM agents |
+| [AutoGen](https://github.com/microsoft/autogen)        | Multi-agent conversation framework         |
+| [CrewAI](https://github.com/crewAIInc/crewAI)          | Role-based AI agent orchestration          |
+
+---
+
+## 🤖 Autonomous AI Agents
+
+| Project                                                    | Description                           |
+| ---------------------------------------------------------- | ------------------------------------- |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Autonomous GPT-based agent            |
+| [BabyAGI](https://github.com/yoheinakajima/babyagi)        | Experimental task-driven AI agent     |
+| [AgentGPT](https://github.com/reworkd/AgentGPT)            | Run AI agents directly in the browser |
+
+---
+
+## 🧰 Developer Tools
+
+| Tool                                             | Description                         |
+| ------------------------------------------------ | ----------------------------------- |
+| [LiteLLM](https://github.com/BerriAI/litellm)    | Unified interface for LLM APIs      |
+| [Helicone](https://github.com/helicone/helicone) | Observability platform for LLM apps |
+
+
+
+
+## 🔑 Keywords
+
+ai-agents • llm-agents • autonomous-agents • ai-tools • machine-learning • generative-ai • automation • developer-tools • awesome-list
+
+
+---
+
+
