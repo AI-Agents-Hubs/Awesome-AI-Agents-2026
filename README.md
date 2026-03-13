@@ -2,6 +2,11 @@
   <img src="assets/banner.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/8Q6yAOQ.png" width="100%" alt="AI Agents Hub Banner">
+</p>
+
+
 # 🤖 Awesome AI Agents 2026
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
